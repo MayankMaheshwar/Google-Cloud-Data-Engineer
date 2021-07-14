@@ -1,0 +1,11 @@
+Run the following command to get Dataflow Python Examples from Google Cloud's professional services GitHub:
+
+gsutil -m cp -R gs://spls/gsp290/dataflow-python-examples .
+
+
+Now set a variable equal to your project id, replacing <YOUR-PROJECT-ID> with your lab Project ID:
+
+export PROJECT=<YOUR-PROJECT-ID>
+gcloud config set project $PROJECT
+
+
