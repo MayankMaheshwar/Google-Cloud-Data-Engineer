@@ -1,0 +1,3 @@
+Create a dataset in BigQuery called lake. This is where all of your tables will be loaded in BigQuery:
+
+bq mk lake
