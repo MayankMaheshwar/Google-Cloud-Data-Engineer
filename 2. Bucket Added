@@ -1,3 +1,0 @@
-Created a bucket to store the files.
-
-gsutil mb -c regional -l us-central1 gs://$PROJECT
